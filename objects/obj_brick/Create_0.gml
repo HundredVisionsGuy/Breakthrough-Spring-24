@@ -4,12 +4,8 @@ image_blend = choose(
 	c_yellow,
 	c_green,
 	c_fuchsia,
-	c_orange
+	c_orange,
 );
-
-
-
-
 
 
 
