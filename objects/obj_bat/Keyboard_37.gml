@@ -4,15 +4,11 @@
 // my system is more effective (see Key Down Right)
 
 x -= spd;
+
 // Move left unless at the left-hand edge
-if (x < 0 + sprite_xoffset + spd) {
-	x = 0 + sprite_xoffset + spd;
+if (x < 0 + sprite_xoffset) {
+	x = 0 + sprite_xoffset;
 }
-
-
-
-
-
 
 
 
